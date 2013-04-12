@@ -139,14 +139,14 @@ $(document).ready(function () {
 				url : ''
 				},
 
-			{image : './images/slider/image3.jpg',
-				title : '<h2><span>Fullscreen</span> Slideshow</h2>',
+			{image : './images/slider/image3.png',
+				title : '<h2><span>From green to</span> Bean</h2>',
 				thumb : '',
 				url : ''
 				},
 
-			{image : './images/slider/image2.jpg',
-				title : '<h2><span>Parallax</span> Background</h2>',
+			{image : './images/slider/image2.png',
+				title : '<h2><span>The Perfect</span> Mix</h2>',
 				thumb : '',
 				url : ''
 				},
